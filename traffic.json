@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "location": "Ghatkesar",
+        "vehicle_count": 400,
+        "congestion_level": "Low"
+    },
+    {
+        "id": 2,
+        "location": "Hitech City",
+        "vehicle_count": 120,
+        "congestion_level": "Medium"
+    },
+    {
+        "id": 3,
+        "location": "Gachibowli Circle",
+        "vehicle_count": 80,
+        "congestion_level": "Low"
+    },
+    {
+        "id": 4,
+        "location": "Kukatpally",
+        "vehicle_count": 390,
+        "congestion_level": "High"
+    },
+    {
+        "id": 5,
+        "location": "Miyapur",
+        "vehicle_count": 455,
+        "congestion_level": "High"
+    }
+]
